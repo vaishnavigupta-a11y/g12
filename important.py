@@ -1,4 +1,5 @@
-print("lerns force commad ")# git clone
+print("lerns force commad ")
+print("change made to check force comamd and its alternt eoiption")# git clone
 # chnages
 # git sttaus
 # git add .
